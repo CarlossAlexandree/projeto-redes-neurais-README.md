@@ -1,0 +1,11 @@
+ativacoes-redes-neurais/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── notebooks/
+│   └── Laboratorio_03_Unit_01.ipynb
+├── imagens/
+│   └── comparativo_ativacoes.png
+├── src/
+│   └── ativacoes.py
+├── requirements.txt
